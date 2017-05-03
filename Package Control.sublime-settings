@@ -1,16 +1,35 @@
 {
-  "installed_packages":
-  [
-    "AdvancedNewFile",
-    "All Autocomplete",
-    "ApplySyntax",
-    "BracketHighlighter",
-    "Emmet",
-    "Git",
-    "GitGutter",
-    "JSX",
-    "Package Control",
-    "SCSS",
-    "ERB Snippets"
-  ]
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"All Autocomplete",
+		"ApplySyntax",
+		"AutoAligner",
+		"Babel",
+		"Better CoffeeScript",
+		"Blade Snippets",
+		"BracketHighlighter",
+		"Coffee Color Scheme",
+		"CoffeeScriptHaml",
+		"Emmet",
+		"ERB Snippets",
+		"Git",
+		"GitGutter",
+		"Jinja2",
+		"JSX",
+		"Laravel Blade Highlighter",
+		"Package Control",
+		"PHP Companion",
+		"Rails Partial",
+		"React Templates",
+		"react-native-snippets",
+		"SCSS",
+		"SublimeLinter",
+		"SublimeLinter-jsxhint"
+	]
 }
